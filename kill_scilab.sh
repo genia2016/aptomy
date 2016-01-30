@@ -1,7 +1,7 @@
+#!/usr/bin/env bash
 # Author: Andrew Zhang
-# Data:  2015/05
-
-
+# Data:  2015
+# updated on 2016/1/30
 
 ps -fu $LOGNAME |grep scilab > scilab_processID
 
