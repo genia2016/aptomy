@@ -33,6 +33,22 @@ Then, load SSTables to Cassandra using `sstableloader`:
 sd
 
 $ echo "Hello"
+    
+    $ echo "Hello"
+    
+$ 
+    $ bash command test
+    ls -l
+    sed
+    awk
+    
+##  This 
+
+
+ 
+
+
+[Yahoo! Finance](http://finance.yahoo.com/) 
 
              
 ## Check loaded data
