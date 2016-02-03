@@ -33,6 +33,7 @@ Then, load SSTables to Cassandra using `sstableloader`:
 sd
 
 $ echo "Hello"
+
              
 ## Check loaded data
 
