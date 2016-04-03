@@ -93,6 +93,7 @@ ls * > temp_data.txt
 
 mv `cat temp_data.txt` `cat $APTOMY_HOME/incomeEmailName.txt`__`cat temp_data.txt`
 
+g
 # Clean the dumy filei to avoid confusion::
 rm temp_data.txt
 
